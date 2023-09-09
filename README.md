@@ -1,5 +1,5 @@
+<img align="center" alt="Coding" width="400" src="[https://i.redd.it/lfzv6tyr1f691.gif](https://i.redd.it/lfzv6tyr1f691.gif)">
 <h1 align="center">Hello there🖐️, I'm Routybor</h1>
-
 - ⚙️ I’m working on **Python web projects**
 
 - 💡 I’m currently learning **Python ML and Java**
