@@ -1,11 +1,12 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cc38670630e86e7a37a3c96cad9197e0/0a3046a7d9598fc9-7a/s540x810/c32446abb87330d914348e0ea4f84e0ac077a8b7.gifv">
 <h1 align="center">Hello there🖐️, I'm Routybor</h1>
 
-- ⚙️ I’m mostly working on **Python web projects**
+⚙️ I’m mostly working on **Python web projects**
 
-- 💡 I’m currently learning **Python ML and Java**
+💡 I’m currently learning **Python ML and aiogram library, Node.js and React**
 
 <h3 align="left">Connect with me:</h3>
+<h5 align="left">https://t.me/Genius24iq</h5>
 <p align="left">
 </p>
 
