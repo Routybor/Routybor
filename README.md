@@ -6,8 +6,8 @@
 💡 I’m currently learning **Python ML and aiogram library, Node.js and React**
 
 <h3 align="left">Connect with me:</h3>
-<h5 align="left">https://t.me/Genius24iq</h5>
 <p align="left">
+<a href="https://dev.to/@routybor" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" alt="@routybor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
