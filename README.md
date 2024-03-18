@@ -3,7 +3,7 @@
 
 ⚙️ I’m mostly working on **Python web projects**
 
-💡 I’m currently learning **Python ML and aiogram library, Node.js and React**
+💡 I’m currently learning **Python Django framework, Node.js, React and Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
