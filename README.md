@@ -16,5 +16,4 @@
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Routybor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Routybor&theme=dark&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
